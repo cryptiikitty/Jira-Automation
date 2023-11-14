@@ -52,3 +52,7 @@ You can find the ID of this field in the response.
 | Executor's Project | Title       | Priority | Category | Description       | Root Task  | Task        | Team | Period of Execution | Responsible |
 |--------------------|-------------|----------|----------|-------------------|------------|-------------|------|----------------------|--------------|
 | Project            | Bug fix #1  | 3        |          | Please fix bug    | Project-1  | ProjectDev-2 | Dev  | 07.07.2023           |              |
+
+
+
+The script integrates with Vault for secure storage of sensitive data, such as authentication details. Ensure proper Vault configuration and setup of environment variables for secure handling of credentials.
